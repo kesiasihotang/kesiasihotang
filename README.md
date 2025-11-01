@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🌱 I’m currently learning about tech at GDGOC USU...
-🔭 I’m a student at Universitas Sumatera Utara..
+-🌱 I’m currently learning about tech at GDGOC USU
+-🔭 I’m a student at Universitas Sumatera Utara
+
+
 
